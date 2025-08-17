@@ -18,6 +18,11 @@ El juego del amigo secreto es una aplicación que permita a los usuarios ingresa
 
 https://sant223.github.io/amigoSecretoOneAlura/
 
+## ¿Cómo usarlo?
+
+<img width="1080" height="501" alt="pasos" src="https://github.com/user-attachments/assets/7f30d9e1-d01e-45fa-af2d-ef4d938ca90c" />
+
+
 ## Tecnologias Utilizadas 🚥
 
   - JavaScript
